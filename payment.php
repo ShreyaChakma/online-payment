@@ -14,6 +14,7 @@
 </head>
 
 <body>
+<!-- Payment form  -->
     <div class="col">
     </div>
     <div class="col">
