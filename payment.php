@@ -34,7 +34,7 @@
 
             <label for="colFormLabelLg">Card Type</label>
             <select name="cardType">
-                <option selected>Choose...</option>
+                <option disabled selected>Choose...</option>
                 <option value="Master">Master</option>
                 <option value="Visa">Visa</option>
                 <option value="Credit">Credit</option>
